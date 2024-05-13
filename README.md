@@ -1,7 +1,7 @@
 
 Snake Game - Javascript Project
 
-A beginner friendly project to create a Retro Snake Game inspired by the iconic Nokia Snake game using HMTL, CSS and JavaScript!
+Project to create a Retro Snake Game inspired by the iconic Nokia Snake game using HMTL, CSS and JavaScript!
 
 ## Features
 
