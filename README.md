@@ -5,7 +5,7 @@ Project to create a Retro Snake Game inspired by the iconic Nokia Snake game usi
 
 ## Features
 
-- A game board
+- A game board using CSS Grid properties
 - Creation of a snake
 - Randomly Generated Food
 - Make the snake move and increase the snake size after eating Food
