@@ -13,13 +13,14 @@ Project to create a Retro Snake Game inspired by the iconic Nokia Snake game usi
 - Tracking collisions of the snake whenever  it   collides with itself and the game board
 - Score tracker
 - Highscore tracker
+- Reset Game
 
 ## Appendix
 
 Following are the Javascript concepts used
 - DOM Manipulation
 - Variables
-- Javascript Functions(for e.g. setInterval)
+- Javascript Functions
 - Array methods(pop,pad,unshift,random number generator,forEach,Math floor,Spread method)
 - Objects
 - Conditional statements
